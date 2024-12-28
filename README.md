@@ -36,7 +36,7 @@
 
 #### 安装和设置
 1. **下载**: 下载最新版本的视频转PNG切片转换器。
-2. **安装**: 按照安装向导完成软件安装。
+2. **无需安装**: 绿色软件，一键运行。
 3. **配置**: 在设置菜单中设置您的偏好。
 4. **使用**: 选择您的视频文件，配置输出设置，并启动转换过程。
 
@@ -84,7 +84,7 @@ This software is ideal for:
 
 #### Installation and Setup
 1. **Download**: Download the latest version of the Video to Frames Converter.
-2. **Install**: Follow the installation wizard to install the software.
+2. **Needn`t Install**: Running after Clik instantly.
 3. **Configure**: Set up your preferences in the settings menu.
 4. **Use**: Select your video files, configure the output settings, and start the conversion process.
 
