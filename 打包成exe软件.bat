@@ -1,0 +1,1 @@
+pyinstaller -w -F --clean --i=1.ico main.py
